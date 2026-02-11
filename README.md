@@ -1,8 +1,17 @@
 # 🚀 PortfoGen  
 ### Autonomous AI Resume-to-Portfolio Generator  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/typing-banner.svg" alt="🚀 PortfoGen - Autonomous AI Resume-to-Portfolio Generator">
-</p>
+<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: bold 24px monospace; fill: #FF00FF; }
+  </style>
+  <!-- Main text -->
+  <text x="50%" y="50%" text-anchor="middle" class="text">
+    PortfoGen - Autonomous AI Resume-to-Portfolio Generator
+    <!-- Blinking cursor -->
+    <tspan>|</tspan>
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
 > Turn your resume into a recruiter-ready portfolio website in seconds.
 
