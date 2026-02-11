@@ -1,15 +1,21 @@
 # 🚀 PortfoGen  
 ### Autonomous AI Resume-to-Portfolio Generator  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/0000000/typing-banner.svg" alt="🚀 PortfoGen - Autonomous AI Resume-to-Portfolio Generator">
+</p>
 
 > Turn your resume into a recruiter-ready portfolio website in seconds.
 
 ---
-
 ## 🌟 Overview
 
-**PortfoGen** is an AI-powered web application that transforms a raw resume (PDF) into a fully structured, professional portfolio website.
+**PortfoGen** is an AI-powered full-stack web application that transforms a traditional PDF resume into a fully structured, professional portfolio website within seconds.
 
-Using **Google Gemini AI**, the system analyzes resume content, optimizes the language, restructures information, and generates a publishable digital portfolio.
+Instead of manually designing and rewriting portfolio content, users simply upload their resume, and PortfoGen intelligently analyzes the document using **Google Gemini AI**. The system extracts key information such as professional summary, skills, projects, experience, and education, refines the language for recruiter impact, and restructures everything into a clean, modern, portfolio-ready format.
+
+The generated output is not just a visual template conversion — it is an AI-optimized transformation that enhances clarity, storytelling, and professional presentation. Users can then preview, save, and publish their personalized digital portfolio through a shareable link.
+
+PortfoGen bridges the gap between raw achievements and compelling professional presence.
 
 ---
 
