@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #FFF7CD;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  background: #F57799;
+  width: 100%;
+  padding: 10px;
+}
+
+nav a {
+  margin: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 80px 40px;
+  min-height: 100vh;
+  background: #FDC3A1;
+  margin-bottom: 10px;
+}
+
+.landing {
+  text-align: center;
+  padding: 100px;
+}
