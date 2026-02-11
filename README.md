@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=F700FF&center=true&vCenter=true&width=1200&lines=PortfoGen+-+Autonomous+AI+Resume-to-Portfolio+Generator" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=F700FF&center=true&vCenter=true&width=1200&lines=PortfoGen;Autonomous+AI;Resume-to-Portfolio+Generator" alt="Typing SVG" />
+</p>
 
 > Turn your resume into a recruiter-ready portfolio website in seconds.
 
