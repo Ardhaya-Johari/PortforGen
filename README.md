@@ -7,8 +7,13 @@
 
 
 ## 🌟 Overview
+**PortfoGen** is an AI-powered full-stack web application that transforms a traditional PDF resume into a fully structured, professional portfolio website within seconds.
 
+Instead of manually designing and rewriting portfolio content, users simply upload their resume, and PortfoGen intelligently analyzes the document using **Google Gemini AI**. The system extracts key information such as professional summary, skills, projects, experience, and education, refines the language for recruiter impact, and restructures everything into a clean, modern, portfolio-ready format.
 
+The generated output is not just a visual template conversion — it is an AI-optimized transformation that enhances clarity, storytelling, and professional presentation. Users can then preview, save, and publish their personalized digital portfolio through a shareable link.
+
+PortfoGen bridges the gap between raw achievements and compelling professional presence.
 
 ---
 
